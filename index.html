@@ -1,0 +1,38 @@
+<html>
+  
+  <head>
+
+  	<link href="style.css" rel="stylesheet">
+    
+  </head>
+  <body>
+    
+    <section id="topBox">
+      <h1>BeachHub Meetup</h1>
+      <h2>A new immersive beach experience</h2>
+      <p id="message">Enter your twitter handle to check in</p>
+      <form action="https://api.decoded.com/checkin/denise/">
+      	<input type="text" placeholder="@twitter" name="username">
+      </form>
+      
+      <div>
+        <button onclick="calcSentiment()" type="button">Sentiment	</button>
+        <button onclick="hitTech('https://labs.decoded.com/tech/api/api/?uid=adff39e0-548f-b215-88c3-9ca4e0beb3b6&trigger=uaor1&value= ')">Hit Tech</button>
+      </div>
+      
+    </section>
+    
+    
+    
+    <section>
+    
+    	<a class="twitter-timeline" href="https://twitter.com/search?q=%22great%20time%22%20party%20OR%20fun%20%23fun%20lang%3Aen%20include%3Aretweets" data-widget-id="728236423724281856">Tweets about "great time" party OR fun #fun lang:en include:retweets</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>  
+    </section>
+  
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="script.js"></script>
+  
+  </body>
+</html>

@@ -1,0 +1,34 @@
+body{
+	background: url("http://beachcottagenorfolk.co.uk/wp-content/uploads/2014/06/Beach-Cottage-Lookout-at-Night.jpg");
+  background-size:cover;
+  padding:0 0 0 0;
+  margin:0px;
+  overflow-x:hidden;
+}
+
+section{
+  margin:0 auto;
+  text-align:center;
+  margin-bottom:30px;
+}
+
+section#topBox{
+	background:rgba(255,255,255,0.5);
+	margin:0px 0px 0px 0px;
+  width:100%;
+  text-align:center;
+  padding:5px 5px;
+}
+
+button{
+	height:30px;
+  background:white;
+  border:none;
+  margin:20px;
+  padding:10px;
+}
+
+button{
+	width:250px;
+  margin:0 0;
+}
