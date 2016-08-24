@@ -16,6 +16,6 @@ jQuery("form").submit(function() {
         } // END success
     }); // END ajax
     
-    // 9. Allow form to submit without reloading the page
+    // 8. Allow form to submit without reloading the page
     event.preventDefault();
 }) // END submit
