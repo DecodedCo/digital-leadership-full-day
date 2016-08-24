@@ -5,7 +5,7 @@ Digital Enlightenment
 
 Build an app for an event that you must attend.
 
-<style>
+<!--<style>
 	
 	ol.optn > li{
 		color:#535C5E;
@@ -13,8 +13,6 @@ Build an app for an event that you must attend.
 
 	ol.optn {
 		list-style-type: lower-roman;
-		/*background-color: #eee;
-		padding:25px;*/
 
 	}
 	
@@ -25,7 +23,7 @@ Build an app for an event that you must attend.
 		font-weight:bold;
 	}
 	
-</style>
+</style>-->
 
 
 #### FRONTEND
