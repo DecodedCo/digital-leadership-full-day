@@ -2,9 +2,11 @@
 ### Keys 
 
 The alchemy keys for sentiment analysis:
-* A
-* B
-* C
-* D
-* E
-* F
+
+* 0773d03ab001c72e32d8c95cf89be1983422959c
+* 06048514ae1b3b63a0f926132684443e7dacff51
+* ad5cd493e09034f852002f2ce2f0f4cc874d506b
+* 57d5d763361645ebd8ea8968b5b5fab87af67e4c
+* 8efb3ce088cb805e0242f71c3b9be781b58b9117
+
+* eda48108-6033-4986-abf8-6dd6bce2ec1d
