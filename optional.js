@@ -111,8 +111,6 @@ function projectOxford(img_url) {
         return null;
     });
 };
-<<<<<<< Updated upstream
-=======
 
 
 ////////////////////////////////////////////////////////////////////////
@@ -159,4 +157,3 @@ function printUberTime(response) {
   // Update the paragraph with an id of "uber" to show the time estimate
   jQuery('p#uber').html('Catch an <a href="uber://" style="text-decoration: none">Uber</a> to join us, it will take ' + timeInSeconds + ' seconds to arrive.');  
 } // END printUberTime
->>>>>>> Stashed changes
